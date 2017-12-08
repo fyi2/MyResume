@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android Portfolio</string>
+
+    <string name="skills">* Java "\n"* Swift "\n"* Android "\n"* iOS "\n"* Teaching
+      </string>
+
+    <string name="work">
+           * Chat App "\n"* Calories App "\n"* Diary App "\n"* Cat Bio App "\n"*  Teaching Programming
+    </string>
+    <string name="contact">
+
+
+    </string>
+
+</resources>
